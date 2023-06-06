@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m a dynamic Front End Engineer, adept at orchestrating exceptional user interfaces for enterprise-level applications, backed by over 3 years of proven expertise
+
+
 <!--
 **sanjaydarshansb1996/sanjaydarshansb1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
