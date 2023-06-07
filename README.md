@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m a dynamic Front End Engineer, adept at orchestrating exceptional user interfaces for enterprise-level applications, backed by over 3 years of proven expertise
+- 
+![image](https://github.com/sanjaydarshansb1996/sanjaydarshansb1996/assets/61506896/8e88c3a6-e542-46cf-9cf5-459c0682c07a)
 
 
 <!--
